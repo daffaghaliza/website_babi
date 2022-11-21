@@ -1,4 +1,8 @@
-h1, p {
+h1, p{
+    margin: 10px;
+}
+
+.card {
     margin: 10px;
 }
 
